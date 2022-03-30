@@ -42,11 +42,11 @@ These articles are linked through the Cluster Mapping Methodology website:
 
 Delgado, Porter, et al. "[Defining Clusters of Related Industries](http://dx.doi.org/10.1093/jeg/lbv017)." _Journal of Economic Geography_ 16, no. 1 (2016): 1–38.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Clusters, Convergence and Economic Performance." (PDF)](http://dx.doi.org/10.3386/w18250) NBER Working Paper Series, 2012.
+———. ["Clusters, Convergence and Economic Performance." (PDF)](http://dx.doi.org/10.3386/w18250) NBER Working Paper Series, 2012.
 
 "[Entrepreneurial Impact: The Role of MIT](http://www.kauffman.org/what-we-do/research/2009/08/entrepreneurial-impact-the-role-of-mit)." The Kauffman Foundation, 2009.
 
-Guzman, Stern, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The State of American Entrepreneurship." (PDF - 3.3MB)](http://dx.doi.org/10.3386/w22095) 2015.
+Guzman, Stern, et al. ["The State of American Entrepreneurship." (PDF - 3.3MB)](http://dx.doi.org/10.3386/w22095) 2015.
 
 
 {{< tdclose >}}
@@ -124,7 +124,7 @@ Bracewell, Joseph. "[Creative Industries add $3.5 billion to NZ's GDP & WeCreate
 
 "[Art the Verb](http://limeshift.com/art-the-verb)." LimeShift, 2016.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Final Report of Community Feedback and Recommendations_." (PDF - 6.5MB)](http://innovation.mit.edu/assets/MIT-Innovation-Initiative-Final-Report-Jan-2016.pdf) MIT Innovation Initiative, 2016.
+["_Final Report of Community Feedback and Recommendations_." (PDF - 6.5MB)](http://innovation.mit.edu/assets/MIT-Innovation-Initiative-Final-Report-Jan-2016.pdf) MIT Innovation Initiative, 2016.
 
 
 {{< tdclose >}}
