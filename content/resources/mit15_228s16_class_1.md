@@ -5,6 +5,7 @@ description: Overview of a class session on frameworks for understanding the inn
   the role governments can play to increase innovativeness.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/a9a9e3204aa0f82385a408948addd3cc_MIT15_228S16_Class_1.pdf
 file_type: application/pdf
+parent_uid: dc287240-5f97-d3f8-14b3-b8605cba4373
 resourcetype: Document
 title: Class 1 Key Takeaways
 uid: a9a9e320-4aa0-f823-85a4-08948addd3cc
